@@ -39,7 +39,24 @@
 
 <img width="1920" height="1080" alt="Снимок экрана (1157)" src="https://github.com/user-attachments/assets/d3bfa6fe-4c1a-4d09-928f-d854a4f6c52e" />
 
+## Задание 5*
 
+Выведите Email каждого покупателя, разделив значение Email на две отдельных колонки: в первой колонке должно быть значение, указанное до @, во второй — значение, указанное после @.
 
+## Ответ:
+
+<img width="1920" height="1080" alt="Снимок экрана (1158)" src="https://github.com/user-attachments/assets/145ca7ba-b46f-4040-b417-0cfbbc084c25" />
+
+<img width="1920" height="1080" alt="Снимок экрана (1159)" src="https://github.com/user-attachments/assets/54d9c33f-0c8a-421b-b7ff-7fcc5d1ed106" />
+
+## Задание 6*
+
+Доработайте запрос из предыдущего задания, скорректируйте значения в новых колонках: первая буква должна быть заглавной, остальные — строчными.
+
+## Ответ:
+
+<img width="1920" height="1080" alt="Снимок экрана (1160)" src="https://github.com/user-attachments/assets/ebbfb6d8-ed92-4359-8e3a-f80f4fe63c45" />
+
+<img width="1920" height="1080" alt="Снимок экрана (1161)" src="https://github.com/user-attachments/assets/713bd6ba-f528-459d-bca6-e0958817dc84" />
 
 
